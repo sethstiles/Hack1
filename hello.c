@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Seth Stiles. I am currently underclared for major but plan on going into something computer related!\n");
+  printf("Jeremy Lawler. Undeclared. Seth Stiles. I am currently underclared for major but plan on going into something computer related!\n");
 
   return 0;
 }
